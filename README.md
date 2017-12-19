@@ -1,5 +1,4 @@
-# helloworld
-A repository 
+# helloworld 
 And it's Arsenal
 Arsenal FC 
 And we're by far the greatest team 
